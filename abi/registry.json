@@ -1,0 +1,21 @@
+[
+    {
+    "inputs": [
+        {
+            "internalType": "uint256",
+            "name": "vehicleId",
+            "type": "uint256"
+        }
+    ],
+    "name": "getDeviceDefinitionIdByVehicleId",
+    "outputs": [
+        {
+            "internalType": "string",
+            "name": "ddId",
+            "type": "string"
+        }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+}
+]
